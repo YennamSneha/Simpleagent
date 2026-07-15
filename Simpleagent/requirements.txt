@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-openai
+pytest
+black
+flake8
+ruff

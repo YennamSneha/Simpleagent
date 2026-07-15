@@ -1,0 +1,2 @@
+All generated Python files should be stored inside generated_files folder.
+Code should be tested before approval.

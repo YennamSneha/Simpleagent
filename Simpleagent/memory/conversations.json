@@ -1,0 +1,166 @@
+[
+    {
+        "user": "Create calculator",
+        "assistant": "Created calculator.py"
+    },
+    {
+        "user": "\nCreate a Python program to add two numbers\nand print the result.\n",
+        "assistant": "Completed: generated_program.py"
+    },
+    {
+        "user": "\nCreate a Python program to add two numbers\nand print the result.\n",
+        "assistant": "Completed: generated_program.py"
+    },
+    {
+        "user": "say my name",
+        "assistant": "Completed: generated_program.py"
+    },
+    {
+        "user": "give about python and java",
+        "assistant": "Completed: generated_program.py"
+    },
+    {
+        "user": "give hii world python program in hi.py file",
+        "assistant": "Completed: hi.py"
+    },
+    {
+        "user": "give a python program where it takes name as user input and it should greet with the name",
+        "assistant": "Completed: generated_program.py"
+    },
+    {
+        "user": "create hello.py that prints Hello World",
+        "assistant": "Completed: hello.py"
+    },
+    {
+        "user": "give a python program of a linked list in linked.py file",
+        "assistant": "Completed: linked.py"
+    },
+    {
+        "user": "give public.py with decision tree code",
+        "assistant": "Completed : public.py"
+    },
+    {
+        "user": "create start.py with quick sort program ",
+        "assistant": "Completed : start.py"
+    },
+    {
+        "user": "give me java.py file with oops code in it",
+        "assistant": "Completed : java.py"
+    },
+    {
+        "user": "give me java.py file with oops code in it",
+        "assistant": "Completed : java.py"
+    },
+    {
+        "user": "give me inheritance.py file with inheitance code in it",
+        "assistant": "Completed : inheritance.py"
+    },
+    {
+        "user": "give me inheritance.py file with inheitance code in it with output",
+        "assistant": "Completed : inheritance.py"
+    },
+    {
+        "user": "give me inheritance.py file with inheitance code in it with output",
+        "assistant": "Completed : inheritance.py"
+    },
+    {
+        "user": "give  a python searching code in search.py file",
+        "assistant": "Completed : search.py"
+    },
+    {
+        "user": "give sort.py with merge sort python program",
+        "assistant": "Completed : sort.py"
+    },
+    {
+        "user": "give a pr.py file with simple java code",
+        "assistant": "Completed : pr.py"
+    },
+    {
+        "user": "give a java1.py file with simple java code",
+        "assistant": "Completed : java1.py"
+    },
+    {
+        "user": "give a agent.py file with simple java code",
+        "assistant": "Completed : agent.py"
+    },
+    {
+        "user": "give a agent.java file with simple java code",
+        "assistant": "Completed : generated_program.py"
+    },
+    {
+        "user": "give a agennt.py with for testing if alphabet is vowel or not",
+        "assistant": "Completed : agennt.py"
+    },
+    {
+        "user": "give system.py with prime numbers python code",
+        "assistant": "Completed : system.py"
+    },
+    {
+        "user": "give pythonnn.py file where 5 and 7 are  divisible by 5 or not",
+        "assistant": "Completed : pythonnn.py"
+    },
+    {
+        "user": "give me a dot.py file where it shoild contain all the search codes and all the sort codes",
+        "assistant": "Completed : dot.py"
+    },
+    {
+        "user": "Give me hash.py  sorting and searching  algorithms in Python using only built-in libraries.t codes",
+        "assistant": "Completed : hash.py"
+    },
+    {
+        "user": "i want all types of sorting and searching techniques in one file",
+        "assistant": "Completed : generated_program.py"
+    },
+    {
+        "user": "can you give me python dijiksrtras algorithm code in diji.py",
+        "assistant": "Completed : diji.py"
+    },
+    {
+        "user": "give Student.java file with hello world program",
+        "assistant": "Completed : Student.java"
+    },
+    {
+        "user": "give app.js file to print hello world",
+        "assistant": "Completed : app.js"
+    },
+    {
+        "user": "give hello.html file for birthday greeting card",
+        "assistant": "Completed : hello.html"
+    },
+    {
+        "user": ".jss file for student id",
+        "assistant": "Completed : generated_program.py"
+    },
+    {
+        "user": "& 'c:\\Users\\sryennam.x.ADAEQUARE\\OneDrive - Adaequare Info Private Limited\\Desktop\\Simpleagent\\workflows\\workflow.py'",
+        "assistant": "Completed : workflow.py"
+    },
+    {
+        "user": "give me a calculator.html file",
+        "assistant": "Completed : calculator.html"
+    },
+    {
+        "user": "calculator.html file with all scientific operations in it",
+        "assistant": "Completed : calculator.html"
+    },
+    {
+        "user": "gve birthday.html which happy birthday mom greeting and quotes in it",
+        "assistant": "Completed : birthday.html"
+    },
+    {
+        "user": "give a java2.java file with polymorphism code in it",
+        "assistant": "Completed : java2.java"
+    },
+    {
+        "user": "give a encap.java file with encapsulation code in it",
+        "assistant": "Completed : encap.java"
+    },
+    {
+        "user": "give inh.java file with inheritance code",
+        "assistant": "Completed : inh.java"
+    },
+    {
+        "user": "give dog.java file with inheritance code with single main class",
+        "assistant": "Completed : dog.java"
+    }
+]
